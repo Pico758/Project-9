@@ -1,0 +1,29 @@
+{
+    "name": "myApplication",
+    "version": "0.0.1",
+    "description": "My Project",
+    "dependencies": {
+        "angular": "^1.8.2",
+        "express": "*",
+        "ng-redux": "^4.4.3",
+        "redux": "^4.1.2",
+        "redux-thunk": "^2.4.1",
+        "serve-favicon": "^2.5.0"
+    },
+    "engine": "node >=0.6.x",
+    "scripts": {
+        "start": "node server.js"
+       
+    },
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "author": "myApp",
+    "license": "myApp",
+    "bugs": {
+        "url": ""
+    },
+    "homepage": "/"
+}
